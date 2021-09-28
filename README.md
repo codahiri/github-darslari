@@ -606,16 +606,16 @@ git merge branch-name # to merge a branch to the current branch
 
 # Day 3
 
-## Git repository user interface features
+## Git repositoryda foydalanuvchi interfeysi xususiyatlari
 
-Familiarize yourself with your GitHub account and available repository features.
-Git has account setting and repository setting. Navigate through the available features.
+GitHub hisob qaydnomangiz va mavjud repository xususiyatlari bilan tanishib chiqing.
+Git -da hisob sozlamalari va repository sozlamalari mavjud. Mavjud xususiyatlar bo'ylab harakatlaning.
 
-Check the available repository features by clicking each buttons.
+Har bir tugmani bosish orqali repositoryning mavjud xususiyatlarini tekshiring.
 
 ![](./images/github-repository-ui_1.png)
 
-Check what is available on your GitHub account settings
+GitHub hisob sozlamalarida nima borligini tekshiring
 
 - watch this repository
 - Give start to this repository
