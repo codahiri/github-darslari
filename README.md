@@ -641,20 +641,20 @@ Saqlagandan so'ng, GitHub sahifasining URL manzili avtomatik ravishda yaratiladi
 
 ![](./images/github-page-link.png)
 
-# Day 5
+# 5-kun
 
-## Documenting on GitHub
+## GitHub -da hujjatlar
 
 ## GitHub Markdown
 
-Markdown files can be used to write documentation or anything. The markdown file extension is .md
+Markdown fayllari hujjatlarni yoki boshqa narsalarni yozish uchun ishlatilishi mumkin. Markdown fayl kengaytmasi .md
 
-Markdown is an HTML-like markup language that allows to write text and render it on a browser. If you are familiar with HTML, you pick the syntax of markdown in a matter of minutes.
-Follow this [link](https://guides.github.com/features/mastering-markdown/) to learn about markdown
+Markdown-bu HTMLga o'xshash belgilash tili bo'lib, u matnni yozish va uni brauzerda ko'rsatishga imkon beradi. Agar siz HTML bilan tanish bo'lsangiz, bir necha daqiqada markdown sintaksisini tushunib olasiz.
+Markdown haqida ko'proq bilush uchun [bu yerga](https://guides.github.com/features/mastering-markdown/) o'ting
 
 ## GitHub wiki
 
-Every GitHub public repository has a wiki page. A wiki page allows you to write or document.
+Har bir GitHub omborida wiki sahifasi mavjud. Wiki sahifasi sizga yozish yoki hujjatlashtirish imkonini beradi.
 ![](./images/wiki.png)
 
 # Day 6
