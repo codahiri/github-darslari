@@ -657,15 +657,15 @@ Markdown haqida ko'proq bilush uchun [bu yerga](https://guides.github.com/featur
 Har bir GitHub omborida wiki sahifasi mavjud. Wiki sahifasi sizga yozish yoki hujjatlashtirish imkonini beradi.
 ![](./images/wiki.png)
 
-# Day 6
+# 6-kun
 
-## Collaborating on GitHub
+## GitHub -da hamkorlik
 
-GitHub made open-source collaboration very easy. You can collaborate to any open-souce GitHub repository by forking the repository. In this section, let's learn how to make collaborate on an open source project:
+GitHub ochiq manbali hamkorlikni juda osonlashtirdi. Siz omborni ajratish orqali har qanday ochiq manbali GitHub ombori bilan hamkorlik qilishingiz mumkin. Bu bo'limda, ochiq manba kodli loyihada qanday hamkorlik qilishni o'rganamiz:
 
 1. First Fork the [10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) repository
-2. After forking, clone this repository on your desktop
-3. Add your favorite educational links on Education Resouces categories. You can learn how to collaborate by adding links of best educational resouces on the category below. If the category is not exist, you create a new category.
+2. Ajratishdan so'ng, bu omborni ish stoliga klonlang
+3. Ta'lim manbalari toifalariga sevimli ta'lim havolalarini qo'shing. Quyidagi toifadagi eng yaxshi ta'lim manbalari havolalarini qo'shish orqali siz qanday hamkorlik qilishni o'rganishingiz mumkin. Agar toifa mavjud bo'lmasa, siz yangi toifani yaratasiz.
 
 ### Educational Resources
 
