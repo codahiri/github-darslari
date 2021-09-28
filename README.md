@@ -624,20 +624,20 @@ GitHub hisob sozlamalarida nima borligini tekshiring
 
 ![](./images/github-repository-ui_2.png)
 
-# Day 4
+# 4-kun
 
-## GitHub page
+## GitHub sahifasi
 
-Every GitHub repository allows you to generate a URL of your project. For instance, this [URL](https://asabeneh.github.io/10-days-of-git-and-github/) has been generated from this project GitHub page. To generate GitHub page URL, you should have an index.html at the top level inside the project.
+Har bir GitHub ombori sizning loyihangizning URL manzilini yaratishga imkon beradi. Masalan, bu [URL](https://github.com/codahiri/github-darslari.git) ushbu loyiha GitHub sahifasidan yaratilgan. GitHub sahifasi URL -ni yaratish uchun siz loyihaning yuqori darajasida index.html -ga ega bo'lishingiz kerak.
 
-First go to the setting of this repository and then click on it. Go all the way down until you get the GitHub pages section, then select the master
+Avval ushbu omborni sozlamalariga o'ting va ustiga bosing. GitHub sahifalari bo'limini olmaguningizcha oxirigacha pastga tushing, so'ngra ustani tanlang
 ![](./images/github-page.png)
 
-After you select the master, a save button will appear and click save.
+Masterni tanlagandan so'ng, saqlash tugmasi paydo bo'ladi va saqlash tugmasini bosing.
 
 ![](./images/github-page-save.png)
 
-After saving, a GitHub page URL will be generated automatically. That is your URL for that specific project.
+Saqlagandan so'ng, GitHub sahifasining URL manzili avtomatik ravishda yaratiladi. Bu sizning aniq loyihangiz uchun URL manzilingiz.
 
 ![](./images/github-page-link.png)
 
