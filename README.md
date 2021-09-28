@@ -604,7 +604,7 @@ git checkout -b branch-name # to create a branch and checkout at the same time
 git merge branch-name # to merge a branch to the current branch
 ```
 
-# Day 3
+# 3-kun
 
 ## Git repositoryda foydalanuvchi interfeysi xususiyatlari
 
